@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+*.rpy[cod]
+
+# game save files
+*.save
 
 # C extensions
 *.so
